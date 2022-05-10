@@ -14,8 +14,7 @@ customers, a reviewer will come in, and if you serve their food well, then you w
 
 Case 1: Not a food reviewer
 
-
-    Player receives order 
+  Player receives order 
     /               \
 Make soup         Make sandwich
     \               /
