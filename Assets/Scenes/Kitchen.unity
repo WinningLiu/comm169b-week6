@@ -1152,6 +1152,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 6ad5a50c9bf71404f84ec7d006812e75, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 011ab7b260fc68c49a22a2db88c66ccb, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6ad5a50c9bf71404f84ec7d006812e75, type: 3}
 --- !u!1 &651505594
@@ -3066,7 +3070,7 @@ PrefabInstance:
     - target: {fileID: 2300000, guid: f748d92d4baa068459789660f183e10c, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: f8934bb38c56d4243a0fd860a7965ad4, type: 2}
+      objectReference: {fileID: 2100000, guid: d80384c6afae20f48b8b584e7d7a6e6b, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f748d92d4baa068459789660f183e10c, type: 3}
 --- !u!1 &1284768793
@@ -3504,16 +3508,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 7116436b7023de147b248790c9b60b65, type: 3}
       propertyPath: m_Materials.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 7116436b7023de147b248790c9b60b65, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 2100000, guid: 4054709429ebdde4eaff3df064a6f38d, type: 2}
     - target: {fileID: 2300000, guid: 7116436b7023de147b248790c9b60b65, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100004, guid: b451a052397f03c4f8a04d915d1c0492, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 7116436b7023de147b248790c9b60b65, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7116436b7023de147b248790c9b60b65, type: 3}
 --- !u!1001 &1577157284
